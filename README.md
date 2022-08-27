@@ -30,12 +30,12 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />&nbsp;
-<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/mongodb.png" />&nbsp;
+<img height="32" width="32" src="./mongodb.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />&nbsp;
-<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/nestjs.jpg" />&nbsp;
-<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/solidity.png" />&nbsp;
-<img height="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/hardhat.png" />&nbsp;
-<img height="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/ethersjs.png" />&nbsp;
+<img height="32" width="32" src="./nestjs.jpg" />&nbsp;
+<img height="32" width="32" src="./solidity.png" />&nbsp;
+<img height="32" src="./hardhat.png" />&nbsp;
+<img height="32" src="./ethersjs.png" />&nbsp;
 
 
 <!--
