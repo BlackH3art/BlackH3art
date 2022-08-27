@@ -1,10 +1,18 @@
-### Hi there 👋
-## One day i will write here some more :smile:
+![](https://github.com/BlackH3art/BlackH3art/blob/master/gh%20header.png "header")
 
-- 🔭 I’m currently looking for my first job as a developer
-- 🌱 I’m currently learning and improving my JS and React skills
-- ⚡ Fun fact: I was playing trombone for 7 years and I love brass music! :musical_note:
-- 💬 Send email to [jaroslaw.musielak@outlook.com](mailto:jaroslaw.musielak@outlook.com "me")
+## Hi there 👋
+
+I am a 32yo self-taught web developer still looking for my first job in this industry.\
+I started to learn from the beginning of 2020 going through HTML, CSS to programming languages like JS, TS and to frameworks based on those, both on the frontend and the backend, where I finally ended up being able to build and develop full-stack applications just by myself.
+
+As I'm passionate about blockchain technology, cryptocurrencies, metaverse, decentralisation and whole the web3 world I also learnt myself Solidity to be able to build DApps as well and participate in this decentralised evolution of internet.
+
+##
+
+:gem: I'm currently open for any opportunities where I can earn some professional, team work experiences.\
+:star2: Go ahead, visit my website and tell me what you think: https://blackh3art.dev/ \
+:notebook: Maybe you'll find there some interesting blog posts about web3!\
+:mailbox: Feel free to contact me! Always pleasure to meet new people.
 
 
 ### Contact with me:
@@ -22,7 +30,12 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />&nbsp;
+<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/mongodb.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />&nbsp;
+<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/nestjs.jpg" />&nbsp;
+<img height="32" width="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/solidity.png" />&nbsp;
+<img height="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/hardhat.png" />&nbsp;
+<img height="32" src="https://github.com/BlackH3art/blackh3art-react-frontend/blob/main/src/img/skills/ethersjs.png" />&nbsp;
 
 
 <!--
@@ -40,6 +53,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-----
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackH3art)](https://github.com/anuraghazra/github-readme-stats)
