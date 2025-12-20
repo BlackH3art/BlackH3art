@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am a 34 yo self-taught web developer still looking for my first job in this industry.\
+I am a 36 yo self-taught web developer still looking for my first job in this industry.\
 I started to learn from the beginning of 2020 going through HTML, CSS to programming languages like JS, TS and to frameworks based on those, both on the frontend and the backend, where I finally ended up being able to build and develop full-stack applications just by myself.
 
 As I'm passionate about blockchain technology, cryptocurrencies, metaverse, decentralisation and whole the web3 world I also learnt myself Solidity to be able to build DApps as well and participate in this decentralised evolution of internet.
