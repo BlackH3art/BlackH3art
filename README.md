@@ -20,6 +20,33 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaros%C5%82aw-musielak-8810961b2/) &nbsp;
 
 ## TECH STACK
+### Languages
+<div>
+  <img height="42" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="42" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="42" width="42" alt="Solidity" src="https://www.soliditylang.org/assets/favicon.ico" />
+</div>
+
+### Frontend
+<div>
+  <img heigth="42" width="42" alt="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
+  <img height="42" width="42" alt="TailwindCSS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+  <img height="42" width="42" alt="Next.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" />
+  <img height="42" width="42" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</div>
+
+### Backend
+<div>
+  <img height="42" width="42" alt="Node" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+  <img height="42" width="42" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="42" width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="42" width="42" alt="Prisma" src="https://www.prisma.io/images/favicon-32x32.png"  />
+  <img height="42" width="42" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img height="42" width="42" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</div>
+
+### Blockchain
+
 ### Languages and tools
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />&nbsp;
@@ -33,7 +60,6 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 <img height="32" width="32" src="./mongodb.png" />&nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />&nbsp;
 <img height="32" width="32" src="./nestjs.jpg" />&nbsp;
-<img height="32" width="32" src="./solidity.png" />&nbsp;
 <img height="32" src="./hardhat.png" />&nbsp;
 <img height="32" src="./ethersjs.png" />&nbsp;
 
