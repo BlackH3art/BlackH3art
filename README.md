@@ -19,49 +19,73 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002911154009) &nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaros%C5%82aw-musielak-8810961b2/) &nbsp;
 
-## TECH STACK
-### Languages
-<div>
-  <img height="42" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="42" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="42" width="42" alt="Solidity" src="https://www.soliditylang.org/assets/favicon.ico" />
-</div>
+## 🛠️ TECH STACK
 
-### Frontend
-<div>
-  <img heigth="42" width="42" alt="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
-  <img height="42" width="42" alt="Next.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" />
-  <img heigth="42" width="42" alt="Vue" src="https://vuejs.org/logo.svg" />
-  <img height="42" width="42" alt="TailwindCSS" src="https://tailwindcss.com/favicons/favicon.ico?v=4" />
-  <img height="42" width="42" alt="Shadcn" src="https://ui.shadcn.com/favicon.ico" />
-  <img height="42" width="42" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-icon-svg-download-png-226077.png" />
-  <img height="42" width="42" alt="SCSS" src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" />
-  <img height="42" width="42" alt="Material UI" src="https://mui.com/static/favicon.ico" />
-  <img height="42" width="42" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="42" width="42" alt="Zustand" src="https://zustand-demo.pmnd.rs/favicon.ico" />
-  <img height="42" width="42" alt="Tanstack" src="https://tanstack.com/favicon.ico" />
-</div>
+<details open>
+  <summary>
+    <!-- <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.freepik.com/256/5603/5603410.png?semt=ais_white_label" /> -->
+    <h3>Languages</h3>
+  </summary>
 
-### Backend
-<div>
-  <img height="42" width="42" alt="Node" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
-  <img height="42" width="42" alt="Express.js" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" />
-  <img height="42" width="42" alt="Nest.js" src="https://nestjs.com/apple-touch-icon.5b633bff.png" />
-  <img height="42" width="42" alt="Fastify" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" />
-  <img height="42" width="42" alt="MongoDB" src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" />
-  <img height="42" width="42" alt="MySQL" src="https://kowalski-consulting.com/wp-content/uploads/2021/12/mysql.png" />
-  <img height="42" width="42" alt="Postgresql" src="https://64.media.tumblr.com/avatar_7ddd9ad7e253_128.pnj" />
-  <img height="42" width="42" alt="Docker" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-192x192.png" />
-  <img height="42" width="42" alt="Prisma" src="https://www.prisma.io/favicon.ico" />
-  <img height="42" width="42" alt="TypeORM" src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg--300x271.png" />
-  <img height="42" width="42" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img height="42" width="42" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img height="42" width="42" alt="Mocha" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mocha_logo.svg/2048px-Mocha_logo.svg.png" />
-  <img height="42" width="42" alt="Vitest" src="https://vitest.dev/logo-shadow.svg" />
-  <img height="42" width="42" alt="Zod" src="https://zod.dev/icon.png?39fe259ddd7f4224" />
-</div>
+  <div>
+    <img height="42" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="42" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="42" width="42" alt="Solidity" src="https://www.soliditylang.org/assets/favicon.ico" />
+  </div>
+</details>
 
-### Blockchain
+<details open>
+  <summary>
+    <!-- <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.flaticon.com/512/2621/2621189.png" /> -->
+    <h3>Frontend</h3>
+  </summary>
+
+  <div>
+    <img heigth="42" width="42" alt="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
+    <img height="42" width="42" alt="Next.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" />
+    <img heigth="42" width="42" alt="Vue" src="https://vuejs.org/logo.svg" />
+    <img height="42" width="42" alt="TailwindCSS" src="https://tailwindcss.com/favicons/favicon.ico?v=4" />
+    <img height="42" width="42" alt="Shadcn" src="https://ui.shadcn.com/favicon.ico" />
+    <img height="42" width="42" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-icon-svg-download-png-226077.png" />
+    <img height="42" width="42" alt="SCSS" src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" />
+    <img height="42" width="42" alt="Material UI" src="https://mui.com/static/favicon.ico" />
+    <img height="42" width="42" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img height="42" width="42" alt="Zustand" src="https://zustand-demo.pmnd.rs/favicon.ico" />
+    <img height="42" width="42" alt="Tanstack" src="https://tanstack.com/favicon.ico" />
+  </div>
+</details>
+
+<details open>
+  <summary>
+    <!-- <img heigth="16" width="16" alt="Backend" src="https://cdn-icons-png.flaticon.com/512/8038/8038373.png" /> -->
+    <h3>Backend</h3>
+  </summary>
+  
+  <div>
+    <img height="42" width="42" alt="Node" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+    <img height="42" width="42" alt="Express.js" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" />
+    <img height="42" width="42" alt="Nest.js" src="https://nestjs.com/apple-touch-icon.5b633bff.png" />
+    <img height="42" width="42" alt="Fastify" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" />
+    <img height="42" width="42" alt="MongoDB" src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" />
+    <img height="42" width="42" alt="MySQL" src="https://kowalski-consulting.com/wp-content/uploads/2021/12/mysql.png" />
+    <img height="42" width="42" alt="Postgresql" src="https://64.media.tumblr.com/avatar_7ddd9ad7e253_128.pnj" />
+    <img height="42" width="42" alt="Docker" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-192x192.png" />
+    <img height="42" width="42" alt="Prisma" src="https://www.prisma.io/favicon.ico" />
+    <img height="42" width="42" alt="TypeORM" src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg--300x271.png" />
+    <img height="42" width="42" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img height="42" width="42" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img height="42" width="42" alt="Mocha" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mocha_logo.svg/2048px-Mocha_logo.svg.png" />
+    <img height="42" width="42" alt="Vitest" src="https://vitest.dev/favicon.ico" />
+    <img height="42" width="42" alt="Zod" src="https://zod.dev/icon.png?39fe259ddd7f4224" />
+  </div>
+</details>
+
+<details>
+  <summary>
+    <!-- <img heigth="16" width="16" alt="BLockchain" src="https://cdn-icons-png.freepik.com/512/6298/6298144.png" /> -->
+    <h3>Blockchain</h3>
+  </summary>
+</details>
 
 ### Languages and tools
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
