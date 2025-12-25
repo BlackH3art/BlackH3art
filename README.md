@@ -3,12 +3,20 @@
 <h1 align="center">Full Stack Web Developer</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100002911154009">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/jaros%C5%82aw-musielak/">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/profile.php?id=100002911154009">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/000000" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/blackh3art_eth">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/x/000000" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/blackh3art_">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/discord/000000" />
   </a>
 </p>
 
