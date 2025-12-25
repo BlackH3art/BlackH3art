@@ -1,7 +1,18 @@
-![](https://github.com/BlackH3art/BlackH3art/blob/master/gh%20header.png "header")
+<!-- # Full Stack Web Developer / Full Stack Blockchain Developer -->
 
-## Hi there 👋
+<h1 align="center">Full Stack Web Developer</h1>
 
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100002911154009">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jaros%C5%82aw-musielak/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
+
+## 📄 ABOUT ME
 I am a 36 yo self-taught web developer still looking for my first job in this industry.\
 I started to learn from the beginning of 2020 going through HTML, CSS to programming languages like JS, TS and to frameworks based on those, both on the frontend and the backend, where I finally ended up being able to build and develop full-stack applications just by myself.
 
@@ -14,10 +25,6 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 :notebook: Maybe you'll find there some interesting blog posts about web3!\
 :mailbox: Feel free to contact me! Always pleasure to meet new people.
 
-
-### Contact with me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002911154009) &nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaros%C5%82aw-musielak-8810961b2/) &nbsp;
 
 ## 🛠️ TECH STACK
 
@@ -101,6 +108,7 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
   </div>
 </details>
 
+![](https://github.com/BlackH3art/BlackH3art/blob/master/gh%20footer.svg "header")
 <!--
 **BlackH3art/BlackH3art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
