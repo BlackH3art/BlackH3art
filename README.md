@@ -23,8 +23,8 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 
 <details open>
   <summary>
-    <!-- <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.freepik.com/256/5603/5603410.png?semt=ais_white_label" /> -->
-    <h3>Languages</h3>
+    &nbsp; <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.freepik.com/256/5603/5603410.png?semt=ais_white_label" />
+    &nbsp; <h3>Languages</h3>
   </summary>
 
   <div>
@@ -34,10 +34,10 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
   </div>
 </details>
 
-<details open>
+<details>
   <summary>
-    <!-- <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.flaticon.com/512/2621/2621189.png" /> -->
-    <h3>Frontend</h3>
+    &nbsp; <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.flaticon.com/512/2621/2621189.png" />
+    &nbsp; <h3>Frontend</h3>
   </summary>
 
   <div>
@@ -55,10 +55,10 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
   </div>
 </details>
 
-<details open>
+<details>
   <summary>
-    <!-- <img heigth="16" width="16" alt="Backend" src="https://cdn-icons-png.flaticon.com/512/8038/8038373.png" /> -->
-    <h3>Backend</h3>
+    &nbsp; <img heigth="16" width="16" alt="Backend" src="https://cdn-icons-png.flaticon.com/512/8038/8038373.png" />
+    &nbsp; <h3>Backend</h3>
   </summary>
   
   <div>
@@ -82,27 +82,24 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 
 <details>
   <summary>
-    <!-- <img heigth="16" width="16" alt="BLockchain" src="https://cdn-icons-png.freepik.com/512/6298/6298144.png" /> -->
-    <h3>Blockchain</h3>
+    &nbsp; <img heigth="16" width="16" alt="BLockchain" src="https://cdn-icons-png.freepik.com/512/6298/6298144.png" />
+    &nbsp; <h3>Blockchain</h3>
   </summary>
+
+  <div>
+    <img height="42" width="42" alt="Ethereum" src="https://img.icons8.com/color/200/ethereum.png" />
+    <img height="42" width="42" alt="Hardhat" src="https://hardhat.org/favicon.ico" />
+    <img height="42" width="42" alt="Foundry" src="https://getfoundry.sh/foundry-logo.png" />
+    <img height="42" width="70" alt="Ethers.js" src="./ethersjs.png" />
+    <img height="42" width="42" alt="Open Zeppelin" src="https://www.openzeppelin.com/hubfs/openzeppelin-favicon-2.png" />
+    <img height="42" width="42" alt="Chainlink" src="https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/6657084f0e022fd363426fc4_favicon.png" />
+    <img height="42" width="42" alt="Uniswap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/2051px-Uniswap_Logo.svg.png" />
+    <img height="42" width="42" alt="AAVE" src="https://www.blockchaincenter.net/wp-content/uploads/logos/aave.png" />
+    <img height="42" width="42" alt="Balancer" src="https://github.com/balancer/brand-assets/blob/main/logo/circle-container/logo-balancer-black-128x128.png" />
+    <img height="42" width="42" alt="MetaMask" src="https://metamask.io/favicons/default/favicon-96x96.png" />
+    <img height="42" width="42" alt="Alchemy" src="https://assets.alchemy.com/favicon-4qrqGy2p.svg" />
+  </div>
 </details>
-
-### Languages and tools
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />&nbsp;
-<img height="32" width="32" src="./mongodb.png" />&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />&nbsp;
-<img height="32" width="32" src="./nestjs.jpg" />&nbsp;
-<img height="32" src="./hardhat.png" />&nbsp;
-<img height="32" src="./ethersjs.png" />&nbsp;
-
 
 <!--
 **BlackH3art/BlackH3art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -120,5 +117,6 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackH3art)](https://github.com/anuraghazra/github-readme-stats)
+-->
