@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="wave1.svg" transform="matrix(0.568241,0,0,0.568241,1091.02,176.054)">
+        <g transform="matrix(1,0,0,1,-1920,-270)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="3840" height="540"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,-1920.04,0)">
+                    <path d="M0,540L7680,540C7680,540 7807.2,173.723 7680,102.173C7520,12.173 7040,0 6720,0C6400,0 6081.05,102.173 5760,102.173C5438.95,102.173 5113.69,0 4793.69,0C4473.98,0 4158.95,102.173 3840,102.173C3521.05,102.173 3200,0 2880,0C2560,0 2241.05,102.173 1920,102.173C1598.95,102.173 1273.69,0 953.693,0C633.976,0 158.949,12.173 0,102.173C-126.997,174.082 0,540 0,540Z" style="fill:url(#_Linear2);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="wave2.svg" transform="matrix(0.568241,0,0,0.568241,1091.02,153.425)">
+        <g transform="matrix(1,0,0,1,-1920,-270)">
+            <clipPath id="_clip3">
+                <rect x="0" y="0" width="3840" height="540"/>
+            </clipPath>
+            <g clip-path="url(#_clip3)">
+                <g transform="matrix(1,0,0,1,-806.023,80.5934)">
+                    <path d="M0,540L7680,540C7680,540 7807.2,173.723 7680,102.173C7520,12.173 7040,0 6720,0C6400,0 6081.05,102.173 5760,102.173C5438.95,102.173 5113.69,0 4793.69,0C4473.98,0 4158.95,102.173 3840,102.173C3521.05,102.173 3200,0 2880,0C2560,0 2241.05,102.173 1920,102.173C1598.95,102.173 1273.69,0 953.693,0C633.976,0 158.949,12.173 0,102.173C-126.997,174.082 0,540 0,540Z" style="fill:rgb(89,232,217);fill-opacity:0.76;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.47573e-14,894.255,-894.255,5.47573e-14,3564.71,-205.78)"><stop offset="0" style="stop-color:white;stop-opacity:0.97"/><stop offset="1" style="stop-color:rgb(89,232,217);stop-opacity:0.97"/></linearGradient>
+    </defs>
+</svg>
