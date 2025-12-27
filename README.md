@@ -36,7 +36,7 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 
 ## 🛠️ TECH STACK
 
-<details open>
+<details>
   <summary>
     &nbsp; <img heigth="16" width="16" alt="Frontend" src="https://cdn-icons-png.freepik.com/256/5603/5603410.png?semt=ais_white_label" />
     &nbsp; <h3>Languages</h3>
