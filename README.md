@@ -28,11 +28,12 @@ As I'm passionate about blockchain technology, cryptocurrencies, metaverse, dece
 
 ##
 
+<!-- 
 :gem: I'm currently open for any opportunities where I can earn some professional, teamwork experiences.\
 :star2: Go ahead, visit my website and tell me what you think: https://blackh3art.dev/ \
 :notebook: Maybe you'll find there some interesting blog posts about web3!\
 :mailbox: Feel free to contact me! Always pleasure to meet new people.
-
+-->
 
 ## 🛠️ TECH STACK
 
