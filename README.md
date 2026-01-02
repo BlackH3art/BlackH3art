@@ -26,7 +26,7 @@ I started to learn from the beginning of 2020 going through HTML, CSS to program
 
 As I'm passionate about blockchain technology, cryptocurrencies, metaverse, decentralisation and whole the web3 world I also learnt myself Solidity to be able to build DApps as well and participate in this decentralised evolution of internet.
 
-##
+
 
 <!-- 
 :gem: I'm currently open for any opportunities where I can earn some professional, teamwork experiences.\
